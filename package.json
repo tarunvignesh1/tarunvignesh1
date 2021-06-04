@@ -1,0 +1,22 @@
+{
+  "name": "tarunvignesh1",
+  "version": "1.0.0",
+  "description": "- 👋 Hi, I’m @tarunvignesh1\r - 👀 I’m interested in ... Artificial Intelligence\r - 🌱 I’m currently learning ...Deep Learning \r - 💞️ I’m looking to collaborate on ...Any AI projects \r - 📫 How to reach me ...linkedIn.com/in/tarunvignesh/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarunvignesh1/tarunvignesh1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarunvignesh1/tarunvignesh1/issues"
+  },
+  "homepage": "https://github.com/tarunvignesh1/tarunvignesh1#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}

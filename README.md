@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 💬 Ask me about **Python, Pytorch, Tensorflow and all deep learning realted topics**
+- 💬 Ask me about **Python, Pytorch, Tensorflow and all deep learning related topics**
 
 - 📫 How to reach me **tarunvickygm@gmail.com or Drop a message** <a href=https://linkedin.com/in/tarunvignesh>@LinkedIn</a>
 

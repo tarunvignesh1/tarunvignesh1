@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Tarun Vignesh</h1>
-<h3 align="center">Artificial Intelligence Learner</h3>
+<h3 align="center">Software developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tarunvignesh1&label=Profile%20views&color=0e75b6&style=flat" alt="tarunvignesh1" /> </p>
 
 <p align="center"> <a href="https://twitter.com/tarun_vignesh" target="blank"><img src="https://img.shields.io/twitter/follow/tarun_vignesh?logo=twitter&style=for-the-badge" alt="tarun_vignesh" /></a> </p>
 
 
-- 🌱 I’m currently learning **Deep reinforcement learning**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Python, Pytorch, A.I**
+- 💬 Ask me about **Python, Dart, CPP, AWS**
 
 - 📫 How to reach me **tarunvickygm@gmail.com**  Or Connect in <a href = "https://linkedin.com/in/tarunvignesh">LinkedIn</a>
 

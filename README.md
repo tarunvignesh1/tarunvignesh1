@@ -2,11 +2,10 @@
 <h3 align="center">Software Engineer</h3>
 
 
-- 🌱 I’m a self learning software engineer from India.I have done projects in deep learning using CNN, RNN and GAN, and much more please be free to contribute or give suggestions based on my repos!!. Im Good in python , CPP and deployed a basic sentimental analysis model in AWS Sagemaker for DL computation and lambda and AWS API for frontend. Currently im learning more about ML APIs and exploring them along with linux and flutter.
+- 🌱 I’m a self learning enthusiastic software engineer from India. 
 
-<h3 align="center"> PLEASE FEEL FREE TO CHECKOUT MY REPOS AND ALWAYS OPEN FOR SUGGESTIONS AND CONTRIBUTIONS </h3>
 
-- 📫 How to reach me **tarunvickygm@gmail.com**  Or Connect in <a href = "https://linkedin.com/in/tarunvignesh">LinkedIn</a>
+- 📫 How to reach me **tarunvignesh1@gmail.com**  Or Connect in <a href = "https://linkedin.com/in/tarunvignesh">LinkedIn</a>
 
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunvignesh1&" alt="tarunvignesh1" /></p>
 

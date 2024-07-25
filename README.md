@@ -7,6 +7,5 @@
 
 - 📫 How to reach me **tarunvignesh1@gmail.com**  Or Connect in <a href = "https://linkedin.com/in/tarunvignesh">LinkedIn</a>
 
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunvignesh1&" alt="tarunvignesh1" /></p>
 
 

@@ -2,7 +2,7 @@
 <h3 align="center">AWS Cloud Architect</h3>
 
 
-- 🌱 I’m a self learning enthusiastic Cloud Architect from Canada. 
+- 🌱 I’m a self learning enthusiastic Software Engineer from Canada. 
 
 
 - 📫 How to reach me **tarunvignesh1@gmail.com**  Or Connect in <a href = "https://linkedin.com/in/tarunvignesh">LinkedIn</a>
